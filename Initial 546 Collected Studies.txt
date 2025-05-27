@@ -1,0 +1,546 @@
+A Bi-level Evolutionary Approach for the Multi-label Detection of Smelly Classes
+A blessing in disguise? Assessing the Relationship between Code Smells and Sustainability
+A Catalogue of Agile Smells for Agility Assessment
+A Catalog of Data Smells for Coding Tasks
+A Catalog of Object-Relational Mapping Code Smells for Java
+A Catalog of Transformations to Remove Smells From Natural Language Tests
+A Catalog of Unintended Software Dependencies in Multi-Lingual Systems at ASML
+A Comparative Study of Tools for Anomaly Detection in Software Requirements
+A Composed Technical Debt Identification Methodology to Predict Software Vulnerabilities
+A Comprehensive View on TD Prevention Practices and Reasons for Not Preventing It
+A Decision Support System for Managing Technical Debt: Towards a Systemic Perspective
+A Deep Learning Based Approach to Detect Code Clones
+A First Look at Duplicate and Near-duplicate Self-admitted Technical Debt Comments
+A Folklore Confirmation on the Removal of Dead Code
+A Hybrid Approach to Investigate Anti-pattern from Source Code
+A Multimethod Study of Test Smells: Cataloging Removal and New Types
+A Multi-Study Investigation into Dead Code
+A Multi-factor Approach for Flaky Test Detection and Automated Root Cause Analysis
+A Multivocal Mapping Study of MongoDB Smells
+A manual categorization of new quality issues on automatically-generated tests
+A Novel Approach for Code Smell Detection: An Empirical Study
+A Novel Four-Way Approach Designed With Ensemble Feature Selection for Code Smell Detection
+A Novel Tree-based Neural Network for Android Code Smells Detection
+A Possibilistic Evolutionary Approach to Handle the Uncertainty of Software Metrics Thresholds in Code Smells Detection
+A Practical Failure Prediction Model based on Code Smells and Software Development Metrics
+A preliminary evaluation on the relationship among architectural and test smells
+A Preliminary Study on the Assignment of GitHub Issues to Issue Commenters and the Relationship with Social Smells
+A Preliminary Study on the Adequacy of Static Analysis Warnings with Respect to Code Smell Prediction
+A Road to Find Them All: Towards an Agnostic Strategy for Test Smell Detection
+A Review of Bad Smells in Cloud-based Applications and Microservices
+A Severity Assessment of Python Code Smells
+A Study of Relevant Parameters Influencing Code Smell Prioritization in Object-Oriented Software Systems
+A Survey-Based Empirical Evaluation of Bad Smells in LabVIEW Systems Models
+A Systems Perspective on Technical Debt
+A Systematic Literature Review of Technical Debt Prioritization
+A Systematic Literature Review on Bad Smells–5 W’s: Which, When, What, Who, Where
+A Systematic Literature Review on Maintenance of Software Containers
+A Systematic Literature Review on the Code Smells Datasets and Validation Mechanisms
+A Systematic Mapping Study Exploring Quantification Approaches to Code, Design, and Architecture Technical Debt
+A Systematic Survey of Just-in-Time Software Defect Prediction
+A Taste of the Software Industry Perception of Technical Debt and its Management in Uruguay
+A Technique to Test Refactoring Detection Tools
+A Trend Analysis of Test Smells in Python Test Code Over Commit History
+A Visualization for Client-Server Architecture Assessement
+Active Hotspot: An Issue-Oriented Model to Monitor Software Evolution and Degradation
+Actions and Impediments for Technical Debt Prevention: Results from a Global Family of Industrial Surveys
+AdaBoost-based Refused Bequest Code Smell Detection with Synthetic Instances
+Advancing Technical Debt Management in Software Systems with a Comprehensive TD Indicator and Question Catalog
+Agile Technical Debt Management using the LTD Framework
+AgileQube: An approach for specification and detection of agile smells
+An Adaptable and Extensible Code Smell Detection Approach
+An Anti-pattern Detection Technique Using Machine Learning to Improve Code Quality
+An Approach for Integrating Interactive Detection of Code Smells on Agile Software Development
+An Approach to Regression Testing Selection based on Code Changes and Smells
+An Architecture Smell Knowledge Base for Managing Architecture Technical Debt
+An Architectural Technical Debt Index Based on Machine Learning and Architectural Smells
+An empirical analysis of code smells using CRITICTOPSIS method
+An Empirical Investigation on the Effect of Code Smells on Resource Usage of Android Mobile Applications
+An Empirical Study of Code Smells in Transformer-based Code Generation Techniques
+An Empirical Study of Evaluating the Correlation between Class Stability and Bad Smells
+An Empirical Study of Refactoring Rhythms and Tactics in the Software Development Process
+An Empirical Study on Accidental Cross-Project Code Clones
+An Empirical Study on Code Smells Co-occurrences in Android Applications
+An Empirical Study on Self-Fixed Technical Debt
+An Empirical Study on the Co-Occurrence of Design Smells in the Same Software Module:God Class Case Study
+An Empirical Study on the Evolution of Test Smell
+An empirical study on the influence of developers’ experience on software test code quality
+An Empirical Study on the Occurrences of Code Smells in Open Source and Industrial Projects
+An Empirical Study on Regular Expression Bugs
+An Empirical Study on Underlying Correlations between Runtime Performance Deficiencies and “Bad Smells” of Microservice Systems
+An Evaluation of Multi-Label Classification Approaches for Method-Level Code Smells Detection
+An Extensible Feature-Oriented Approach for Fine-Grained Code Quality Analysis
+An Experience Report on Technical Debt in Pull Requests: Challenges and Lessons Learned
+An Exploratory Study on the Identification and Evaluation of Bad Smell Agglomerations
+An Exploratory Study on the Refactoring of Unit Test Files in Android Applications
+An Exploratory Study on the Relationship of Smells and Design Issues with Software Vulnerabilities
+An Exploratory Study on the Usage and Readability of Messages Within Assertion Methods of Test Cases
+An Evolutionary Analysis of Software-Architecture Smells
+An Intelligent Framework based on CNN and Neutrosophic Technique for Detecting Code Smell and Ranking Code
+An Ontology-Based Approach to Reduce the Negative Impact of Code Smells in Software Development Projects
+Analysing Agreement Among Different Evaluators in God Class and Feature Envy Detection
+Analysis of the Technical Debt of Software Projects Based on Merge Code Comments
+Analysis of the Tools for Static Code Analysis
+Analyzing Test Smells Refactoring from a Developers Perspective
+Analyzing the Relationship between Community and Design Smells in Open-Source Software Projects: An Empirical Study
+Anomaly Analyses to Guide Software Testing Activity
+Anticipating Identification of Technical Debt Items in Model-Driven Software Projects
+Application of Deep Learning models for Code Smell Prediction
+Application of Naïve Bayes classifiers for refactoring Prediction at the method level
+Applying Machine Learning to Customized Smell Detection: A Multi-Project Study
+AreWe There Yet? Novices’ Code Smells linked to Loop Constructs
+Asking about Technical Debt: Characteristics and Automatic Identification of Technical Debt Questions on Stack Overflow
+Assessing and Improving the Quality of Generated Tests in the Context of Maintenance Tasks
+ARCADE: An ExtensibleWorkbench for Architecture Recovery, Change, and Decay Evaluation
+Architectural Bad Smells for Self-Adaptive Systems: Go Runtime!
+Architectural Decay as Predictor of Issue- and Change-Proneness
+Architectural Technical Debt - A Systematic Mapping Study
+Architecture Smells and Pareto Principle: A Preliminary Empirical Exploration
+Artifact Analysis of Smell Evolution and Maintenance Tasks in Simulink Models
+Are Code Smell Co-occurrences Harmful to Internal Quality Attributes? A Mixed-Method Study
+Automated Analysis of Flakiness-mitigating Delays
+Automated Smell Detection and Recommendation in Natural Language Requirements
+Automated SQA Framework with Predictive Machine Learning in Airfield Software
+Automatic Assessment of Architectural Anti-patterns and Code Smells in Student Software Projects
+Automatic Detection of Five API Documentation Smells: Practitioners’ Perspectives
+Automatic Generation of Smell-free Unit Tests
+Automatic Identification of High Impact Bug Report by Test Smells of Textual Similar Bug Reports
+Automatic Refactoring Method to Remove Eager Test Smell
+Automating Serverless Deployments for DevOps Organizations
+Automating Source Code Refactoring in the Classroom
+Automating TODO-missed Methods Detection and Patching
+Bad Smells in IEC 61499-based Control Software: Sniffing out Shotgun Surgery
+Bad Smells in Industrial Automation: Sniffing out Feature Envy
+Behavior-based test smells refactoring
+Beyond Technical Aspects: How Do Community Smells Influence the Intensity of Code Smells?
+Beyond Technical Debt Unravelling Organisational Debt Concept
+Beyond the Code: Investigating the Effects of Pull Request Conversations on Design Decay
+Beyond the Code: Mining Self-Admitted Technical Debt in Issue Tracker Systems
+Bug Tracking Process Smells In Practice
+BuildSonic: Detecting and Repairing Performance-Related Configuration Smells for Continuous Integration Builds
+C K Metric and Architecture Smells Relations: Towards Software Quality Assurance
+Calibrating Deep Learning-based Code Smell Detection using Human Feedback
+Capturing and Understanding the Drift Between Design, Implementation, and Documentation
+cASper: A plug-in for Automated Code Smell Detection and Refactoring
+Catalog of Refactoring Operations for IEC 61499
+Catalog of Code Quality Defects in Introductory Programming
+Catching Smells in the Act: A GitHub Actions Workflow Investigation
+Carrot and Stick approaches when managing Technical Debt
+Challenges of Processing Data Clumps within Plugin Architectures of Integrated Development Environment
+Characterizing the Architectural Erosion Metrics: A Systematic Mapping Study
+Characterizing the Occurrence of Dockerfile Smells in Open-Source Software: An Empirical Study
+Classification And Prioritization Of Requirements Smells Using Machine Learning Techniques
+Clean Code and Design Educational Tool
+CLEAN++: Code Smells Extraction for C++
+Clone Detection in IEC 61499 using Metainformation
+CloneBAS: A Code Clone Detection Method Based on Abstract Syntax Tree and Simhash
+CloudScent: A Model for Code Smell Analysis in Open-Source Cloud
+Code Review Practices for Refactoring Changes: An Empirical Study on OpenStack
+Code Reviewer Recommendation for Architecture Violations: An Exploratory Study
+Code Red: The Business Impact of Code Quality – A Quantitative Study of 39 Proprietary Production Codebases
+Code Smell Analysis in Cloned Java Variants: the Apo-games Case Study
+Code Smell Co-occurrences: A Systematic Mapping
+Code Smell Detection Research Based on Pre-training and Stacking Models
+Code Smell Detection Tool for Java Script Programs
+CODE SMELL DETECTION USING A WEIGHTED COCKROACH SWARM OPTIMIZATION ALGORITHM
+Code Smell Detection using Hybrid Machine Learning Algorithms
+Code Smell Severity Detection Using Machine Learning
+Code Smells and Detection Techniques: A Survey
+Code Smells for Machine Learning Applications
+Code Smells in Elixir: Early Results from a Grey Literature Review
+Comparing the Effectiveness of Machine Learning and Deep Learning Techniques for Feature Envy Detection in Software Systems
+Comparing Maintainability Index, SIG Method, and SQALE for Technical Debt Identification
+Comparing Within- and Cross-Project Machine Learning Algorithms for Code Smell Detection
+Comparison and Evaluation of Clone Detection Techniques with Different Code Representations
+Completeness of Composite Refactorings for Smell Removal
+Compliance Management of IaC-Based Cloud Deployments During Runtime
+Comprehending the Use of Intelligent Techniques to Support Technical Debt Management
+Copilot-in-the-Loop: Fixing Code Smells in Copilot-Generated Python Code using Copilot
+Cross-language Code Coupling Detection: A Preliminary Study on Android Applications
+csDetector: An Open Source Tool for Community Smells Detection
+DACOS—A Manually Annotated Dataset of Code Smells
+Dead Code Removal at Meta: Automatically Deleting Millions of Lines of Code and Petabytes of Deprecated Data
+Debt Stories: Capturing Social and Technical Debt in the Industry
+DebtHunter: A Machine Learning-based Approach for Detecting Self-Admitted Technical Debt
+Decision tree-based Design Defects Detection
+Decoding Confusing Code: Social Representations among Developers
+Deductive Software Architecture Recovery via Chain-of-thought Prompting
+Deep Learning Based Code Smell Detection
+Deep Learning Based Feature Envy Detection Boosted by Real-World Examples
+Deep Multimodal Architecture for Detection of Long Parameter List and Switch Statements using DistilBERT
+Deodorant for Shotgun Surgery Bad Smell in IEC 61499-based Control Software
+Dependency-Aware Code Naturalness
+Dependency Smells in JavaScript Projects
+Deployment Coordination for Cross-Functional DevOps Teams
+Design Smells in Deep Learning Programs: An Empirical Study
+Detection of test smells with basic language analysis methods and its evaluation
+Detecting and Explaining Self-Admitted Technical Debts with Attention-based Neural Networks
+Detecting and Refactoring Feature Envy Based on Graph Neural Network
+Detecting and Resolving Coupling-Related Infrastructure as Code Based Architecture Smells in Microservice Deployments
+Detecting Architecture Debt in Micro-Service Open-Source Projects
+Detecting Architectural Issues during the Continuous Integration Pipeline
+Detecting Bad Smells with Machine Learning Algorithms: an Empirical Study
+Detecting Code Smells using ChatGPT: Initial Insights
+Detecting Code Smell with a Deep Learning System
+Detecting Code Smells with AI: a Prototype Study
+Detecting Common Weakness Enumeration through the Core Building Blocks of Similar Languages based on the CodeBERT Model
+Detecting Requirements Smells With Deep Learning: Experiences, Challenges and Future Work
+Detection Bad Code Smells By Using Deep Machine Learning Approaches
+Detection of Unused Native Methods code smells in Multi-Language Systems
+Determining Enterprise Architecture Smells from Software Architecture Smells
+Developer-Driven Code Smell Prioritization
+Did You Remember To Test Your Tokens?
+Different Debt: An Addition to the Technical Debt Dataset and a Demonstration Using Developer Personality
+Different Kind of Smells: Security Smells in Infrastructure as Code Scripts
+Dimensionally Reduction based Machine Learning Approaches for Code smells Detection
+Do Bad Smells Lead to Defects?
+Do Bugs Lead to Unnaturalness of Source Code?
+Do Critical Components Smell Bad? An Empirical Study with Component-based Software Product Lines
+Do Developers Modify Dead Methods during the Maintenance of Java Desktop Applications?
+Do Developers Fix Continuous Integration Smells?
+Do the Test Smells Assertion Roulette and Eager Test Impact Students’ Troubleshooting and Debugging Capabilities?
+Do you see any problem? On the Developers’ Perceptions in Test Smells Detection
+Do you smell it too? Towards Bad Smells in IEC 61499 Applications
+Documentation of Quality Requirements in Agile Software Development
+Does Code Complexity Affect the Quality of Real-Time Projects? Detection of Code Smell on Software Projects using Machine Learning Algorithms
+Does Code Smell Frequency Have a Relationship with Fault-proneness?
+Does Generative AI Generate Smells Related to Container Orchestration?: An Exploratory Study with Kubernetes Manifests
+Drift and Erosion in Software Architecture: Summary and Prevention Strategies
+Droidlens: Robust and Fine-Grained Detection for Android Code Smells
+DynAMICS: A Tool-Based Method for the Specification and Dynamic Detection of Android Behavioral Code Smells
+Eliciting Public Discourse of SE Tool Providers in a Study on Requirements Process Debt - A Different Shade of Gray
+Emerging Trends in Code Quality: Introducing Kotlin-Specific Bad Smell Detection Tool for Android Apps
+Empirical Assessment on Interactive Detection of Code Smells
+Empirical Evaluation of the Automated Generation of Software Tests from the Perspective of Test Smells
+Empirical Study of the Docker Smells Impact on the Image Size
+Empirical Study on Code Smells in iOS Applications
+Enforcing Green Code With Android Lint
+Enhanced Machine Learning-Based Code Smell Detection Through Hyper-Parameter Optimization
+Enhancing Recommendations of Composite Refactorings based on the Practice
+Evaluating Interactive Detection of Code Smells on Software Development Activities
+Evaluation of Software Quality Through Refactoring Commit-Impact Analysis
+Evaluating Source Code Quality with Large Languagem Models: a comparative study
+Examining the Relationship of Code and Architectural Smells with Software Vulnerabilities
+Experiences on Managing Technical Debt with Code Smells and AntiPatterns
+Experiences with Technical Debt and Management Strategies in Production Systems Engineering
+Experimentation of Code Smells using Deep Learning Techniques
+Exploiting dynamic analysis for architectural smell detection: a preliminary study
+Exploiting Multi-aspect Interactions for God Class Detection with Dataset Fine-tuning
+Exploiting the Progress of OO Refactoring Tools with Android Code Smells
+Exploring Community Smells in Open-Source: An Automated Approach
+Exploring Technical Debt on IoT Software Projects
+Exploring the effect of NULL usage in source code
+Exploring the Impact of Code Clones on Deep Learning Software
+Extraction of Prediction Rules of Code Smell using Decision Tree Algorithm
+Evaluating a Conceptual Framework for Supporting Technical Debt Management in Testing Activities - A Feasibility Study
+Evaluating the Architectural Debt of IoT Projects
+FlakeFlagger: Predicting Flakiness Without Rerunning Tests
+Feature Envy Detection based on Bi-LSTM with Self-Attention Mechanism
+Feature Envy Detection with Deep Learning and Snapshot Ensemble
+Featured Scents: Towards Assessing Architectural Smells for Self-Adaptive Systems at Runtime
+FedCSD: A Federated Learning Based Approach for Code-Smell Detection
+Fixing Your Own Smells: Adding a Mistake-Based Familiarisation Step When Teaching Code Refactoring
+FixMe: A GitHub Bot for Detecting and Monitoring On-Hold Self-Admitted Technical Debt
+Forecasting Architectural Decay From Evolutionary History
+From Fine-tuning to Output: An Empirical Investigation of Test Smells in Transformer-Based Test Code Generation
+From OpenAPI Fragments to API Pattern Primitives and Design Smells
+Functionality Based Code Smell Detection and Severity Classification
+Fusion of deep convolutional and LSTM recurrent neural networks for automated detection of code smells
+Generated Tests in the Context of Maintenance Tasks: A Series of Empirical Studies
+GLITCH: Automated Polyglot Security Smell Detection in Infrastructure as Code
+GraphifyEvolution - A Modular Approach to Analysing Source Code Histories
+Guidelines for GUI Testing Maintenance: A Linter for Test Smell Detection
+Handling Test Smells in Python: Results from a Mixed-Method Study
+Hearing the voice of experts: Unveiling Stack Exchange communities’ knowledge of test smells
+How agile software development practitioners perceive the need for documenting quality requirements: a multiple case study
+How Aware AreWe of Test Smells in Quantum Software Systems? A Preliminary Empirical Evaluation
+How Can We Cope with the Impact of Microservice Architecture Smells?
+How Does Incomplete Composite Refactoring Affect Internal Quality Attributes?
+How do Code Smell Co-occurrences Removal Impact Internal Quality Attributes? A Developers’ Perspective
+How Disabled Tests Manifest in Test Maintainability Challenges?
+How Effectively Do Code Language Models Understand Poor-Readability Code?
+How Far HaveWe Progressed in Identifying Self-admitted Technical Debts? A Comprehensive Empirical Study
+How Junior Developers Deal with Their Technical Debt?
+How long do Junior Developers take to Remove Technical Debt Items?
+How to Improve Deep Learning for Software Analytics (a case study with code smell detection)
+How to introduce TD Management into a Software Development Process – A Practical Approach
+How to Refactor this Code? An Exploratory Study on Developer-ChatGPT Refactoring Conversations
+Hybrid Bad Smell Detection Approaches Based on Historical Changes of LOC
+IDE-assisted visualization of indebted OO variability implementations
+Identifying and Measuring Technical Debt in Software Requirements: a supporting guide
+Identifying Code Changes for Architecture Decay via a Metric Forest Structure
+Identification of Code Properties that Support Code Smell Analysis
+Identification and Remediation of Self-Admitted Technical Debt in Issue Trackers
+Illustration and Detection of Exception Handling Bad Smells
+Impact of Agile Scrum Methodology on Time to Market and Code Quality – A Case Study
+Impact of Architectural Smells on Software Performance: an Exploratory Study
+Impact Of Code Smells On Software Fault Prediction At Class Level And Method Level
+Improved Flaky Test Detection with Black-Box Approach and Test Smells
+Improving Machine Learning-based Code Smell Detection via Hyper-parameter Optimization
+Incorporating Android Code Smells into Java Static Code Metrics for Security Risk Prediction of Android Applications
+Increasing, not Diminishing: Investigating the Returns of Highly Maintainable Code
+Industry Experiences with Large-Scale Refactoring
+Infrastructure as Code for Dynamic Deployments
+InSet: A Tool to Identify Architecture Smells Using Machine Learning
+Integrating Visual Aids to Enhance the Code Reviewer Selection Process
+Investigating Developers’ Contributions to Test Smell Survivability: A Study of Open-Source Projects
+Investigating how Agile Software Practitioners Repay Technical Debt in Software Projects
+Investigating Non-Usually Employed Features in the Identification of Architectural Smells: A Machine Learning-Based Approach
+Investigating Severity Thresholds for Test Smells
+Investigating Test Smells in JavaScript Test Code
+Investigating the Point of View of Project Management Practitioners on Technical Debt - A Preliminary Study on Stack Exchange
+Is Assertion Roulette still a test smell? An experiment from the perspective of testing education
+Is your code harmful too? Understanding harmful code through transfer learning
+Is Using Deep Learning Frameworks Free? Characterizing Technical Debt in Deep Learning Frameworks
+iSMELL: Assembling LLMs with Expert Toolsets for Code Smell Detection and Refactoring
+JNose: Java Test Smell Detector
+Just-In-Time Test Smell Detection and Refactoring: The DARTS Project
+JTDog: a Gradle Plugin for Dynamic Test Smell Detection
+Kubernetes-enabled Detection and Resolution of Architectural Smells for Microservices
+Leveraging Historical Associations between Requirements and Source Code to Identify Impacted Classes
+LiveRef: a Tool for Live Refactoring Java Code
+Local and Global Feature Based Explainable Feature Envy Detection
+Long-Term Evaluation of Technical Debt in Open-Source Software
+Look Ahead! Revealing Complete Composite Refactorings and their Smelliness Effects
+Making Python Code Idiomatic by Automatic Refactoring Non-idiomatic Python Code with Pythonic Idioms
+Machine Learning for Change-Prone Class Prediction: A History-Based Approach
+Machine Learning Implementation for Refactoring Prediction
+Machine Learning Powered Code Smell Detection as a Business Improvement Tool
+Managing Technical Debt in Automation: Best Practices and Cross-Life-Cycle Strategies
+Manual Tests Do Smell! Cataloging and Identifying Natural Language Test Smells
+Mastering Software Craftsmanship: An Industrial Practitioner Perspective
+Metamodel deprecation to manage technical debt in model co-evolution
+Merging Smell Detectors: Evidence on the Agreement of Multiple Tools
+Methodology for Code Synthesis Evaluation of LLMs Presented by a Case Study of ChatGPT and Copilot
+Microservices smell detection through dynamic analysis
+Mining Software Repository for Security Smell Code Review
+MLCQ: Industry-Relevant Code Smell Data Set
+ml-Codesmell: A code smell prediction dataset for machine
+learning approaches
+MLSmellHound: A Context-Aware Code Analysis Tool
+Mobile Application Performance Improvement with the Implementation of Code Refactor Based on Code Smells Identification: Dutataniku Agriculture Mobile App Case Study
+Modelling the Quantification of Technical Debt
+Multi-faceted Code Smell Detection at Scale using DesigniteJava 2.0
+Multi-label code smell Detection Method based on CodeBERT
+Multi-language Design Smells: A Backstage Perspective
+Not all Dockerfile Smells are the Same: An Empirical Evaluation of HadolintWriting Practices by Experts
+On Developing and Improving Tools for Architecture-Smell Tracking in Java Systems
+On the Assessment of Interactive Detection of Code Smells in Practice: A Controlled Experiment
+On the Co-Occurrence of Refactoring of Test and Source Code
+On the Distribution of “Simple Stupid Bugs” in Unit Test Files: An Exploratory Study
+On the Evolution of Inheritance and Delegation Mechanisms and Their Impact on Code Quality
+On the Impact of Refactorings on Software Attack Surface
+On the Influence of UML Class Diagrams Refactoring on Code Debt: A Family of Replicated Empirical Studies
+On the Influential Interactive Factors on Degrees of Design Decay: A Multi-Project Study
+On the Interplay of Smells Large Class, Complex Class and Duplicate Code
+On the Lack of Consensus Among Technical Debt Detection Tools
+On the need to merge architectural and infrastructural considerations
+On the Prevalence, Co-occurrence, and Impact of Infrastructure-as-Code Smells
+On the Prevalence, Evolution, and Impact of Code Smells in Simulation Modelling Software
+On the Prevalence, Impact, and Evolution of SQL Code Smells in Data-Intensive Systems
+On the relation between technical debt indicators and quality criteria in Stack Overflow discussions
+On the Understandability of Design-Level Security Practices in Infrastructure-as-Code Scripts and Deployment Architectures
+On the use of test smells for prediction of flaky tests
+On the Vulnerability of Large Corpora Source Code
+Optimization of Resource Allocation for Detection of Software Architectural Defects
+Oracles of Bad Smells - a Systematic Literature Review
+Organizing a Set of Empirical Findings on the Causes and Effects of Technical Debt through a Globally Distributed Family of Surveys
+OWL-Sharp: Gerador Semântico de Código-Fonte OWL-Sharp: Source Code Semantic Generator
+Pattern-oriented API Refactoring: Addressing Design Smells and Stakeholder Concerns
+Perceptions of Technical Debt and its Management Activities - A Survey of Software Practitioners
+PILOT: Synergy between Text Processing and Neural Networks to Detect Self-Admitted Technical Debt
+Piranha: Reducing Feature Flag Debt at Uber
+Polyglot Code Smell Detection for Infrastructure as Code with GLITCH
+Potential Technical Debt and Its Resolution in Code Reviews: An Exploratory Study of the OpenStack and Qt Communities
+Practitioners’ expectations on code smell detection
+Practitioner Perceptions of Ansible Test Smells
+Precise Lake: A Feedback and Visualization System For Optimizing Code Health
+Predicting Community Smells’ Occurrence on Individual Developers by Sentiments
+Prediction of Code Smell from Source Code: A Hybrid Approach
+Predictive Reranking using Code Smells for Information Retrieval Fault Localization
+Pre-trained Model Based Feature Envy Detection
+Prevalence of Code Smells in Reinforcement Learning Projects
+Preventing Technical Debt by Technical Debt Aware Project Management
+Prioritizing Software Components Risk: Towards a Machine Learning-based Approach
+PriorTD: A Method for Prioritization Technical Debt
+Privacy Smells: Detecting Privacy Problems in Cloud Architectures
+PRIVDROID: Android Security Code Smells Tool for Privilege Escalation Prevention
+Profiling Developers Through the Lens of Technical Debt
+Project smells” — Experiences in Analysing the Software Quality of ML Projects with mllint
+PYNOSE: A Test Smell Detector For Python
+Pytest-Smell: A Smell Detection Tool for Python Unit Tests
+Python Code Smell Detection Using Machine Learning
+QScored: A Large Dataset of Code Smells and Quality Metrics
+QScored: An Open Platform for Code Quality Ranking and Visualization
+Qualitative analysis of the relationship between design smells and software engineering challenges
+Quality Analysis of iOS Applications with Focus on Maintainability and Security
+Quality analysis of mobile applications with special focus on security aspects
+Quality Assessment of ChatGPT Generated Code and their Use by Developers
+Quality Assurance for Microservice Architectures
+Quality Requirements for Code: On the Untapped Potential in Maintainability Specifications
+Quantifying Requirements Technical Debt: A Systematic Mapping Study and a Conceptual Model
+RAIDE: a tool for Assertion Roulette and Duplicate Assert identification and refactoring
+RAT: A Refactoring-Aware Tool for Tracking Code History
+Recommendations for Developers Identifying Code Smells
+Recommendation of Move Method Refactoring Using Path-Based Representation of Code
+Recommending Composite Refactorings for Smell Removal: Heuristics and Evaluation
+Refactor4Green: A Game for Novice Programmers to Learn Code Smells
+Refactorings and Technical Debt in Docker Projects: An Empirical Study
+Refactoring Android-specific Energy Smells: A Plugin for Android Studio
+Refactoring, Bug Fixing, and New Development Effect on Technical Debt: An Industrial Case Study
+Refactoring Debt: Myth or Reality? An Exploratory Study on the Relationship Between Technical Debt and Refactoring
+Refactoring of Code to Remove Technical Debt and Reduce Maintenance Effort
+Refactoring of a Microservices Project driven by Architectural Smell Detection
+Refactoring Prediction Improvement using Various Feature Selection and Data Sampling Techniques
+Refactoring Practices in the Context of Modern Code Review: An Industrial Case Study at Xerox
+Refactoring Test Smells: A Perspective from Open-Source Developers
+Refactoring Test Smells With JUnit 5: Why Should Developers Keep Up-to-Date?
+Refining ChatGPT-Generated Code: Characterizing and Mitigating CodeQuality Issues
+Relevance Vector Machine for Code Smell Detection
+Research Trends, Detection Methods, Practices, and Challenges in Code Smell: SLR
+Resolving Security Issues via Quality-Oriented Refactoring: A User Study
+Requirements Copilot: Ambiguity Management in Feature Requests
+Requirement Engineering Challenges for Social Sector Software Development: Insights from Multiple Case Studies
+Revealing the Social Aspects of Design Decay
+Revisiting “code smell severity classification using machine learning techniques”
+Revisiting Code Smells in Block Based Languages
+Revisiting Technical Debt Types and Indicators for Software Systems
+Revisiting Test Impact Analysis in Continuous Testing From the Perspective of Code Dependencies
+Revisiting Test Smells in Automatically Generated Tests: Limitations, Pitfalls, and Opportunities
+Revisiting the Impact of Anti-patterns on Fault-Proneness: A Differentiated Replication
+RTj: a Java Framework for Detecting and Refactoring Rotten Green Test Cases
+SATDAUG - A Balanced and Augmented Dataset for Detecting Self-Admitted Technical Debt
+ScrumBut as an Indicator of Process Debt
+Security Code Smells in Apps: AreWe Getting Better?
+Security Debt: Characteristics, Product Life-Cycle Integration and Items
+Security Smells in Ansible and Chef Scripts: A Replication Study
+Security Smells Pervade Mobile App Servers
+Selected Code-Quality Characteristics and Metrics for Internet of Things Systems
+Semantic-based Architecture Smell Analysis
+Semi-automatic Feedback for Improving Architecture Conformance to Microservice Patterns and Practices
+Semi-supervised detection of Long Method and God Class code smells
+Sen4Smells: A Tool for Ranking Sensitive Smells for an Architecture Debt Index
+Sentinel: A process for automatic removing of Test Smells
+Smart prediction for refactorings in the software test code
+SMEAGOL: A Static Code Smell Detector for MongoDB
+Smell-Aware Bug Classification
+Smell Patterns as Indicators of Design Degradation
+Smelly Variables in Ansible Infrastructure Code: Detection, Prevalence, and Lifetime
+Software Archinaut: A Tool to Understand Architecture, Identify Technical Debt Hotspots and Manage Evolution
+Software Architecture Degradation in Open Source Software: A Systematic Literature Review
+Software Architecture Recovery from Multiple Dependency Models
+Software Refactoring Scheme Based on NSGA-II Algorithm
+Software Ticks Need No Specifications
+SoHist: A Tool for Managing Technical Debt through Retro Perspective Code Analysis
+Sonarlizer Xplorer: a tool to mine Github projects and identify technical debt items using SonarQube 
+Source Code Interoperability based on Ontology
+Splicing Community Patterns and Smells: A Preliminary Study
+StaticTracker: A Diff Tool for Static Code Warnings
+Study of Automatic Programs Quality Analysis and Correction
+Studying Duplicate Logging Statements and Their Relationships With Code Clones
+Surveying Software Practitioners on Technical Debt Payment Practices and Reasons for not Paying off Debt Items
+Symptoms of Architecture Erosion in Code Reviews: A Study of Two OpenStack Projects
+Tackling Software Architecture Erosion: Joint Architecture and Implementation Repairing by a Knowledge-based Approach
+Taxonomy of Architecture Maintainability Smells
+TD Classifier: Automatic Identification of Java Classes with High Technical Debt
+Technical Debt Guild
+Technical Debt in Brazilian Software Startups: Perceptions of Professionals in Paraná
+Technical Debt is not Only about Code andWe Need to be Aware about It
+Technical Debt Management in Agile Context:
+Technical Debt Management in Agile Software Development: A Systematic Mapping Study
+Technical Debt Management in Automotive Software Industry
+Technical Debt Monitoring Decision Making with Skin in the Game
+Technical Debt on Agile Projects: Managers’ point of view at Stack Exchange
+Technical Debt Prioritization: A Developer’s Perspective
+Technical Debt Prioritization: Taxonomy, Methods Results, and Practical Characteristics
+Technical Debt Resulting from Architectural Degradation and Code Smells: A Systematic Mapping Study
+TEMPY: Test Smell Detector for Python
+TerraMetrics: An Open Source Tool for Infrastructure-as-Code(IaC) Quality Metrics in Terraform
+TERTIARY STUDY ON LANDSCAPING THE REVIEW IN CODE SMELLS
+Test Smell Detection Tools: A Systematic Mapping Study
+Test Smells Learning by a Gamification Approach
+TFfinder: A Software tool to discover Temporary Field code smell
+The Correlation Between Architecture Smells, Package Stability and Reusability: A Case Study
+The Effect of Code Smells on the Relationship Between Design Patterns and Defects
+The Effects of Extract Function Refactoring On High Cyclomatic Complexity Code Smell and Maintainability Index
+The Hidden Cost of Backward Compatibility: When Deprecation Turns into Technical Debt - An Experience Report
+The Impact of a Live Refactoring Environment on Software
+The Impact of CompilerWarnings on Code Quality in C++ Projects
+The Importance of Accounting for Execution Failures when Predicting Test Flakiness
+The Lost World: Characterizing and Detecting Undiscovered Test Smells
+Kod Kusurlarnn Tespitinde Makine Ö􀃷renmesi Tekniklerinin Ba􀃺arm Analizi
+The Negative Implications of Technical Debt on Software Startups: What they are and when they surface
+The Prevalence of Code Smells in Machine Learning projects
+The Prevalence of the Technical Debt Concept in Serbian IT Industry: Results of a National-Wide Survey
+The Scent of Deep Learning Code: An Empirical Study
+The Smelly Eight: An Empirical Study on the Prevalence of Code Smells in Quantum Computing
+The Yin and Yang of Software Quality: On the Relationship between Design Pattern and Code Smells
+Three Heads Are Better Than One: Suggesting Move Method Refactoring Opportunities with Inter-class Code Entity Dependency Enhanced Hybrid Hypergraph Neural Network
+To Security and Beyond: On The Impacts of Microservice Security Smells and Refactorings
+To What Extent Can Code Quality be Improved by Eliminating Test Smells?
+Towards a Live Environment for Code Refactoring
+Towards a method for monitoring the coupling evolution of microservice-based architectures
+Towards a Process to Manage Usability Technical Debts
+Toward a Smell-aware Prediction Model for CI Build Failures
+Towards a Taxonomy of Inline Code Comment Smells
+Towards an Approach to Identify Obsolete Features based on Importance and Technical Debt
+Towards an Interdisciplinary Technical Debt Interaction and Visualization Tool
+Towards an Understanding of Technical Debt in Reference Architectures
+Towards Automatically Addressing Self-Admitted Technical Debt: How Far Are We?
+Towards Better Dependency Management: A First Look at Dependency Smells in Python Projects
+Towards Better Technical Debt Detection with NLP and Machine Learning Methods
+Towards Collaborative Technical Debt Management in Systems of Systems
+Towards Comprehensive Assessment of Code Quality at CS1-level: Tools, Rubrics and Refactoring Rules
+Towards Connecting Bugs and Architecture in Software Systems: A Perspective
+Towards Effective Technical Debt Decision Making in Software Startups: Early-Stage
+Towards measuring the aggregated debt of Trustworthiness level
+Towards Microservice Smells Detection
+Towards Realistic SATD Identification through Machine Learning Models: Ongoing Research and Preliminary Results
+Towards Sustainable Cloud Software Systems through Energy-Aware Code Smell Refactoring
+Towards Semantic Detection of Smells in Cloud Infrastructure Code
+Toward Static Test Flakiness Prediction: A Feasibility Study
+Towards the Definition of Patterns and Code Smells for Multi-language Systems
+Towards the Use of a Framework to Make Technical Debt Visible
+Towards Unmasking LGTM Smells in Code Reviews: A Comparative Study of Comment-Free and Commented Reviews
+Trade-offs in Managing Risk and Technical Debt in Industrial Research Labs: An Experience Report
+Triaging Microservice Security Smells, with TriSS
+Transforming Test Suites into Croissants
+tsDetect: An Open Source Test Smells Detection Tool
+Tuning Code Smell Prediction Models: A Replication Study
+Understanding and Detecting Harmful Code
+Understanding Architecture Erosion: The Practitioners’ Perceptive
+Understanding Code Smell Detection via Code Review: A Study of the OpenStack Community
+Understanding Code Understandability Improvements in Code Reviews
+Understanding practitioners’ strategies to handle test smells: a multi-method study
+Understanding Refactoring Tactics and their Effect on Software Quality
+Understanding the relationship between Technical Debt, New Code Cost and Rework Cost in Open-Source Software Projects: An Empirical Study
+Unearthing Gas-Wasting Code Smells in Smart Contracts with Large Language Models
+Unit Test Smells and Accuracy of Software Engineering Student Test Suites
+UnityLint: A Bad Smell Detector for Unity
+Unraveling the Impact of Code Smell Agglomerations on Code Stability
+URegM: a unified prediction model of resource consumption for refactoring software smells in open source cloud
+Use of an Anti-Pattern in CS2: Sequential if Statements with Exclusive Conditions
+Using Graph Clustering Algorithms to Modularize IEC 61499 Control Software
+Using Metrics for Code Smells of ML Pipelines
+Using Software Metrics to detect Temporary Field code smell
+Using Stack Overflow to Assess Technical Debt Identification on Software Projects
+Using Surveys to Build-up Empirical Evidence on Test-Related Technical Debt
+Using Version Control and Issue Tickets to detect Code Debt and Economical Cost
+UX Debt: Developers Borrow While Users Pay
+Variability Debt: A Multi-method Study
+Variability Debt: Characterization, Causes and Consequences
+Viscount: A Direct Method Call Coverage Tool for Java
+Visualizing Code Smells: Tables or Code Cities? A Controlled Experiment
+VITRuM - A Plug-In for the Visualization of Test-Related Metrics
+Voting Heterogeneous Ensemble for Code Smell Detection
+WeakSATD: DetectingWeak Self-admitted Technical Debt
+What Can Self-Admitted Technical Debt Tell Us About Security? A Mixed-Methods Study
+What Challenges Do Developers Face About Checked-in Secrets in Software Artifacts?
+What Constitutes the Deployment and Runtime Configuration System? An Empirical Study on OpenStack Projects
+What is the Vocabulary of Flaky Tests?
+What are the Practices used by Software Practitioners on Technical Debt Payment? Results From an International Family of Surveys
+When Are Smells Indicators of Architectural Refactoring Opportunities? A Study of 50 Software Projects
+When Your Infrastructure Is a Buggy Program: Understanding Faults in Infrastructure as Code Ecosystems
+Worst Smells and Their Worst Reasons
+xNose: A Test Smell Detector for C#
+23 Shades of Self-Admitted Technical Debt: An Empirical Study on Machine Learning Software
