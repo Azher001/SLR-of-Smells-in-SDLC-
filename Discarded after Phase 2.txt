@@ -1,0 +1,56 @@
+1. Functionality Based Code Smell Detection and Severity Classification
+2. Are Code Smell Co-occurrences Harmful to Internal Quality Attributes? A Mixed-Method Study
+3. Recommending Composite Refactorings for Smell Removal: Heuristics and Evaluation
+4. On the Interplay of Smells Large Class, Complex Class and Duplicate Code
+5. An Empirical Study on the Occurrences of Code Smells in Open Source and Industrial Projects
+6. Code Smell Analysis in Cloned Java Variants: the Apo-games Case Study
+7. Is your code harmful too? Understanding harmful code through transfer learning
+8. Catalog of Code Quality Defects in Introductory Programming
+9. A Novel Tree-based Neural Network for Android Code Smells Detection
+10. A Possibilistic Evolutionary Approach to Handle the Uncertainty of Software Metrics Thresholds in Code Smells Detection
+11. CloudScent: A Model for Code Smell Analysis in Open-Source Cloud
+12. Application of Naïve Bayes classifiers for refactoring Prediction at the method level
+13. An Ontology-Based Approach to Reduce the Negative Impact of Code Smells in Software Development Projects
+14. An Empirical Study on the Co-Occurrence of Design Smells in the Same Software Module: God Class Case Study
+15. An Empirical Study on Code Smells Co-occurrences in Android Applications
+16. An Empirical Study of Code Smells in Transformer-based Code Generation Techniques.
+17. An Empirical Investigation on the Effect of Code Smells on Resource Usage of Android Mobile Applications
+18. An Approach for Integrating Interactive Detection of Code Smells on Agile Software Development
+19. A Study of Relevant Parameters Influencing Code Smell Prioritization in Object-Oriented Software Systems
+20. A Severity Assessment of Python Code Smells
+21. TFfinder: A Software tool to discover Temporary Field code smell
+22. On the Assessment of Interactive Detection of Code Smells in Practice: A Controlled Experiment
+23. Multi-faceted Code Smell Detection at Scale using DesigniteJava 2.0
+24. How to Improve Deep Learning for Software Analytics (a case study with code smell detection)
+25. Exploring the effect of NULL usage in source code
+26. Detecting Code Smells with AI: a Prototype Study
+27. Completeness of Composite Refactorings for Smell Removal
+28. Comparing the Effectiveness of Machine Learning and Deep Learning Techniques for Feature Envy Detection in Software Systems
+29. Code Smell Severity Detection Using Machine Learning
+30. Towards Connecting Bugs and Architecture in Software Systems: A Perspective
+31. Taxonomy of Architecture Maintainability Smells
+32. Optimization of Resource Allocation for Detection of Software Architectural Defects
+33. On the Influential Interactive Factors on Degrees of Design Decay: A Multi-Project Study
+34. Kubernetes-enabled Detection and Resolution of Architectural Smells for Microservices
+35. Characterizing the Architectural Erosion Metrics: A Systematic Mapping Study
+36. An Architecture Smell Knowledge Base for Managing Architecture Technical Debt
+37. A Visualization for Client-Server Architecture Assessement
+38. Deductive Software Architecture Recovery via Chain-of-thought Prompting
+39. An Exploratory Study on the Relationship of Smells and Design Issues with Software Vulnerabilities
+40. Investigating Non-Usually Employed Features in the Identification of Architectural Smells: A Machine Learning-Based Approach
+41. Drift and Erosion in Software Architecture: Summary and Prevention Strategies
+42. Software Archinaut: A Tool to Understand Architecture, Identify Technical Debt Hotspots and Manage Evolution
+43. Viscount: A Direct Method Call Coverage Tool for Java
+44. Revisiting Test Impact Analysis in Continuous Testing From the Perspective of Code Dependencies
+45. Investigating Severity Thresholds for Test Smells
+46. Empirical Evaluation of the Automated Generation of Software Tests from the Perspective of Test Smells
+47. Automatic Generation of Smell-free Unit Tests
+48. A manual categorization of new quality issues on automatically-generated tests
+49. A Multimethod Study of Test Smells: Cataloging Removal and New Types
+50. The LostWorld: Characterizing and Detecting Undiscovered Test Smells
+51. Sentinel: A process for automatic removing of Test Smells
+52. Investigating Developers’ Contributions to Test Smell Survivability: A Study of Open-Source Projects
+53. An empirical study on the influence of developers’ experience on software test code quality
+54. Guidelines for GUI Testing Maintenance: A Linter for Test Smell Detection
+55. Toward Static Test Flakiness Prediction: A Feasibility Study
+56. Refactoring Test Smells: A Perspective from Open-Source Developers
