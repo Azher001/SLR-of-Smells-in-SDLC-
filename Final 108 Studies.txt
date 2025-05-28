@@ -1,0 +1,119 @@
+Code Smells:
+1. An Exploratory Study on the Identification and Evaluation of Bad Smell Agglomerations
+2. Applying Machine Learning to Customized Smell Detection: A Multi-Project Study
+3. Comparing Within- and Cross-Project Machine Learning Algorithms for Code Smell Detection
+4. Fusion of deep convolutional and LSTM recurrent neural networks for automated detection of code smells
+5. Deep Learning Based Feature Envy Detection Boosted by Real-World Examples
+6. Detecting Code Smells using ChatGPT: Initial Insights
+7. How do Code Smell Co-occurrences Removal Impact Internal Quality Attributes? A Developers’ Perspective
+8. Three Heads Are Better Than One: Suggesting Move Method Refactoring Opportunities with Inter-class Code Entity Dependency Enhanced Hybrid Hypergraph Neural Network
+9. The Yin and Yang of Software Quality: On the Relationship between Design Patterns and Code Smells
+10. Worst Smells and Their Worst Reasons
+11. A Novel Approach for Code Smell Detection: An Empirical Study
+12. A Novel Four-Way Approach Designed With Ensemble Feature Selection for Code Smell Detection
+13. AdaBoost-based Refused Bequest Code Smell Detection with Synthetic Instances
+14. An Evaluation of Multi-Label Classification Approaches for Method-Level Code Smells Detection
+15. An Intelligent Framework based on CNN and Neutrosophic Technique for Detecting Code Smell 
+and Ranking Code
+16. Application of Deep Learning models for Code Smell Prediction
+17. Calibrating Deep Learning-based Code Smell Detection using Human Feedback
+18. CLEAN++: Code Smells Extraction for C++
+19. CloneBAS: A Code Clone Detection Method Based on Abstract Syntax Tree and Simhash
+20. Code Smell Detection Research Based on Pre-training and Stacking Models
+21. Code Smell Detection Tool for Java Script Programs
+22. CODE SMELL DETECTION USING A WEIGHTED COCKROACH SWARM OPTIMIZATION ALGORITHM
+23. Code Smell Detection using Hybrid Machine Learning Algorithms
+24. Decision tree-based Design Defects Detection
+25. Deep Multimodal Architecture for Detection of Long Parameter List and Switch Statements using DistilBERT
+26. Detecting and Refactoring Feature Envy Based on Graph Neural Network
+27. Detecting Code Smell with a Deep Learning System
+28. Detection Bad Code Smells By Using Deep Machine Learning Approaches
+29. Exploiting Multi-aspect Interactions for God Class Detection with Dataset Fine-tuning
+30. Extraction of Prediction Rules of Code Smell using Decision Tree Algorithm
+31. Feature Envy Detection based on Bi-LSTM with Self-Attention Mechanism
+32. Feature Envy Detection with Deep Learning and Snapshot Ensemble
+33. FedCSD: A Federated Learning Based Approach for Code-Smell Detection
+34. Local and Global Feature Based Explainable Feature Envy Detection
+35. Multi-label code smell Detection Method based on CodeBERT
+36. Pre-trained Model Based Feature Envy Detection
+37. Python Code Smell Detection Using Machine Learning
+38. Relevance Vector Machine for Code Smell Detection
+39. Semi-supervised detection of Long Method and God Class code smells
+40. Understanding Code Smell Detection via Code Review: A Study of the OpenStack Community
+41. Voting Heterogeneous Ensemble for Code Smell Detection
+42. An Empirical Study of Evaluating the Correlation between Class Stability and Bad Smells
+43. Do Bad Smells Lead to Defects?
+44. Examining the Relationship of Code and Architectural Smells with Software Vulnerabilities
+45. Unraveling the Impact of Code Smell Agglomerations on Code Stability
+46. Copilot-in-the-Loop: Fixing Code Smells in Copilot-Generated Python Code using Copilot
+47. iSMELL: Assembling LLMs with Expert Toolsets for Code Smell Detection and Refactoring
+
+Deployment Smells:
+48. BuildSonic: Detecting and Repairing Performance-Related Configuration Smells for Continuous Integration Builds
+49. Do Developers Fix Continuous Integration Smells?
+50. Empirical Study of the Docker Smells Impact on the Image Size
+51. Refactorings and Technical Debt in Docker Projects: An Empirical Study
+52. Catching Smells in the Act: A GitHub Actions Workflow Investigation
+53. Characterizing the Occurrence of Dockerfile Smells in Open-Source Software: An Empirical Study
+54. Does Generative AI Generate Smells Related to Container Orchestration?: An Exploratory Study with Kubernetes Manifests
+55. Not all Dockerfile Smells are the Same: An Empirical Evaluation of HadolintWriting Practices by Experts
+56. Toward a Smell-aware Prediction Model for CI Build Failures
+
+Requirement Smells:
+57. Using Surveys to Build-up Empirical Evidence on Test-Related Technical Debt
+58. Eliciting Public Discourse of SE Tool Providers in a Study on Requirements Process Debt - A Different Shade of Gray
+59. Actions and Impediments for Technical Debt Prevention: Results from a Global Family of Industrial Surveys
+60. Quantifying Requirements Technical Debt: A Systematic Mapping Study and a Conceptual Model
+61. Automated Smell Detection and Recommendation in Natural Language Requirements
+62. Classification And Prioritization Of Requirements Smells Using Machine Learning Techniques
+
+Test Smells:
+63. Understanding practitioners’ strategies to handle test smells: a multi-method study
+64. Handling Test Smells in Python: Results from a Mixed-Method
+65. Investigating Test Smells in JavaScript Test Code
+66. From Fine-tuning to Output: An Empirical Investigation of Test Smells in Transformer-Based Test Code Generation
+67. tsDetect: An Open Source Test Smells Detection Tool
+68. What is the Vocabulary of Flaky Tests?
+69. JNose: Java Test Smell Detector
+70. RAIDE: a tool for Assertion Roulette and Duplicate Assert identification and refactoring
+71. On the use of test smells for prediction of flaky tests
+72. TEMPY: Test Smell Detector for Python
+73. A Road to Find Them All: Towards an Agnostic Strategy for Test Smell Detection
+74. Smart prediction for refactorings in the software test code
+75. Automatic Refactoring Method to Remove Eager Test Smell
+76. A Catalog of Transformations to Remove Smells From Natural Language Tests
+77. Refactoring Test Smells With JUnit 5: Why Should Developers Keep Up-to-Date?
+78. To What Extent Can Code Quality be Improved by Eliminating Test Smells?
+79. Do the Test Smells Assertion Roulette and Eager Test Impact Students’ Troubleshooting and Debugging Capabilities?
+80. PYNOSE: A Test Smell Detector For Python
+81. Just-In-Time Test Smell Detection and Refactoring: The DARTS Project
+82. JTDog: a Gradle Plugin for Dynamic Test Smell Detection
+83. Improved Flaky Test Detection with Black-Box Approach and Test Smells
+84. Detection of test smells with basic language analysis methods and its evaluation
+85. A Multi-factor Approach for Flaky Test Detection and Automated Root Cause Analysis
+86. Revisiting Test Smells in Automatically Generated Tests: Limitations, Pitfalls, and Opportunities
+87. Manual Tests Do Smell! Cataloging and Identifying Natural Language Test Smells
+88. Is Assertion Roulette still a test smell? An experiment from the perspective of testing education
+89. A Trend Analysis of Test Smells in Python Test Code Over Commit History
+
+Architectural Smells:
+
+90. Analyzing the Relationship between Community and Design Smells in Open-Source Software Projects: An Empirical Study
+91. Qualitative analysis of the relationship between design smells and software engineering challenges
+92. InSet: A Tool to Identify Architecture Smells Using Machine Learning
+93. Smell Patterns as Indicators of Design Degradation
+94. Active Hotspot: An Issue-Oriented Model to Monitor Software Evolution and Degradation
+95. Detecting Architectural Issues during the Continuous Integration Pipeline
+96. Impact of Architectural Smells on Software Performance: an Exploratory Study
+97. ARCADE: An ExtensibleWorkbench for Architecture Recovery, Change, and Decay Evaluation
+98. An Evolutionary Analysis of Software-Architecture Smells
+99. Beyond the Code: Investigating the Effects of Pull Request Conversations on Design Decay
+100. Understanding Architecture Erosion: The Practitioners’ Perceptive
+101. Sen4Smells: A Tool for Ranking Sensitive Smells for an Architecture Debt Index
+102. Symptoms of Architecture Erosion in Code Reviews: A Study of Two OpenStack Projects
+103. Exploiting dynamic analysis for architectural smell detection: a preliminary study
+104. Forecasting Architectural Decay From Evolutionary History
+105. Identifying Code Changes for Architecture Decay via a Metric Forest Structure
+106. On Developing and Improving Tools for Architecture-Smell Tracking in Java Systems
+107. Semantic-based Architecture Smell Analysis
+108. The Correlation Between Architecture Smells, Package Stability and Reusability: A Case Study
