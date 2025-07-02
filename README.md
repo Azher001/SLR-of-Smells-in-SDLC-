@@ -14,10 +14,10 @@ This file lists the 56 studies that were excluded after the second phase of our 
 ### 🔹 `Final 108 Studies.txt`
 This file contains the 108 studies that were included in the final synthesis. Each entry includes the paper’s title.
 
-### 🔹 `PRISMA_2020_abstract_checklist.docx`
+### 🔹 `PRISMA_2020_abstract_checklist.pdf`
 This document contains the PRISMA 2020 Abstract Checklist, which we used to assess and refine our abstract for compliance with systematic review reporting standards.
 
-### 🔹 `PRISMA_2020_checklist.docx`
+### 🔹 `PRISMA_2020_checklist.pdf`
 This document contains the full PRISMA 2020 Checklist. It was used to ensure that our review adheres to best practices in systematic review reporting, including transparency in methodology and reproducibility.
 
 ---
